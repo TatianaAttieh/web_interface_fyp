@@ -131,3 +131,4 @@ if st.button("Classify"):
                     📞 Call <strong>1564</strong> for support and assistance.
 </div>
                 """, unsafe_allow_html=True)
+                st.set_page_config(page_title="Comparative Study of Multiple Machine Learning for Emotional State Detection")
